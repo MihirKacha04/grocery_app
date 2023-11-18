@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7e10edab-81e9-4990-b866-57e49d1061aa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/audio/orderacceptaudio.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/iconimages/Deliceryaddress.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/iconimages/MyDetailsicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/iconimages/Ordersicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/iconimages/PromoCordicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/iconimages/abouticon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/iconimages/paymenticon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/Apple1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/Orderaccepted.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/amlasoda1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/amlasoda2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/apple2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/bakerythumb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/banana.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/banana2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/beveragethumb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/bread1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/bread2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/bread21.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/bread22.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/cart-black.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/cart-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/check.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/cheese1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/cheese2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/cookies11.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/cookies12.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/cookingoilandgheethumb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/dahi1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/dairyandeggs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/deliveryboy.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/egg1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/egg2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/egg21.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/eggs21.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/fiesta1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/fiesta2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/fish1.1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/fish1.2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/fish21.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/fish31.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/fruitsthumb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/ghee1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/guava1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/heart-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/kivi2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/kiwi1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/lemon1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/mastecard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/meat1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/meat2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/meatfishthumb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/meatws1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/meatws2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/milk1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/oil1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/oil2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/orderacceptedbg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/paneer1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/paneer2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/peanuts1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/pineapple1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/pineapple2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/profileimage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/pulses.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/rasmalai1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/sprite1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tomato1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/yeah1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/lottie/favourite.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/lottie/orderaccepted.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Bloc/CategoryBloc/category_bloc.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Bloc/CategoryBloc/category_event.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Bloc/CategoryBloc/category_state.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Bloc/MainActivityBloc/main_activity_bloc.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Bloc/MainActivityBloc/main_activity_event.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Bloc/MainActivityBloc/main_activity_state.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Bloc/ProductBloc/product_bloc.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Bloc/ProductBloc/product_event.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Bloc/ProductBloc/product_state.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Bloc/cartbloc/cart_bloc.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Bloc/cartbloc/cart_event.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Bloc/cartbloc/cart_state.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Bloc/explorebloc/explore_bloc.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Bloc/explorebloc/explore_event.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Bloc/explorebloc/explore_state.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Bloc/homescreenbloc/homescreen_bloc.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Bloc/homescreenbloc/homescreen_event.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Bloc/homescreenbloc/homescreen_state.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/demo json.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/model/Model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/model/singleton.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/Categoryscreen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/Mainactivity.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/Orderaccetscreen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/Profilescreen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/Searchscreen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/Splashscreen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/cartscreen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/explorescreen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/favouritescreen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/homescreen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/productscreen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/welcomescreen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/utils/AppColors.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2YKtH7jhhWZOJP5eFL85gZ6OLPg" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;io.flutter.reload.alreadyRun&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Volumes/Backup/studio_projects/event_booking_app/grocery_app&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;dart.settings&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e10edab-81e9-4990-b866-57e49d1061aa" name="Changes" comment="" />
+      <created>1700286014308</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700286014308</updated>
+    </task>
+    <servers />
+  </component>
+</project>
